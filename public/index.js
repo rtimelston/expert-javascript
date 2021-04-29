@@ -43,3 +43,4 @@ console.log(`console.log(this.c): ${this.c}`) // bar
 console.log('console.log(this.d()): ' + this.d()) // I am d!
 
 console.log(window)
+

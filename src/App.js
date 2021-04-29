@@ -1,7 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import { describeHoisting } from '../src/chapter1/hoisting'
+
 
 function App() {
+  describeHoisting()
 
   return (
     <div className="App">
